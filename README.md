@@ -1,2 +1,2 @@
-Python_practice
+Python_practice:
 1. String_practice1
